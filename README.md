@@ -28,12 +28,12 @@ My Web Application:<br/>
   Since I had a domain registered with godaddy alread it was a easy choice for me.</p>
   
  
-Select the disk:  <br/>
-<img src="image1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Domain Name:  <br/>
+<img src="image1.png" height="80%" width="80%" alt="Domain Name"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Blogs: <br/>
+<img src="image3.png" height="80%" width="80%" alt="Blogs"/>
 <br />
 <br />
 Confirm your selection:  <br/>
