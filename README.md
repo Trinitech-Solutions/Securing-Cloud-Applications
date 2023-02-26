@@ -1,4 +1,4 @@
-<h1>Securng-Cloud-Applications</h1>
+<h1>Securing-Cloud-Applications</h1>
 
 <h2>Description</h2>
 For my first project I combined many of the topics learn't in previous classes 
@@ -35,7 +35,8 @@ Blogs: <br/>
 <br />
 <br />
 
-<p>Networking Questions
+<p>
+<h2>Networking Questions<h2/>
 
 
 1. What is the IP address of your webpage?
@@ -56,13 +57,9 @@ Blogs: <br/>
 [Non-authoritative answer:
 nicholasmohan.com        nameserver = ns51.domaincontrol.com.
 nicholasmohan.com        nameserver = ns52.domaincontrol.com.
+<br/>
 
-
-Authoritative answers can be found from:
-]
-	
-
-Web Development Questions
+<h2>Web Development Questions<h2/>
 
 
 1. When creating your web app, you selected a runtime stack.  What was it? Does it work on the front end or the back end? 
