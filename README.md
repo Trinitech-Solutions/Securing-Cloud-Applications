@@ -26,7 +26,7 @@ Secured it with a SSL certificate, and applied some of Azure's security features
 Web Application:<br/>
  
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="image1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
