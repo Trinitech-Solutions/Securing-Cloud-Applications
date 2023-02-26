@@ -3,9 +3,10 @@
  ### [YouTube Demonstration]()
 
 <h2>Description</h2>
-This project I used Microsoft Azure to build and host my own "cyber-blog" web application. Secured it with a SSL certificate, 
-and applied some of Azure's security features to protect the app. 
-<br />
+For my first project I combined many of the topics learn't in previous classes 
+to create and deploy my own "cyber-blog" web application using Microsoft Azure. 
+Secured it with a SSL certificate, and applied some of Azure's security features to protect the app. 
+<br/>
 
 
 <h2>Technologies Used</h2>
