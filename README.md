@@ -1,7 +1,5 @@
 <h1>Securng-Cloud-Applications</h1>
 
- ### [YouTube Demonstration]()
-
 <h2>Description</h2>
 For my first project I combined many of the topics learn't in previous classes 
 to create and deploy my own "cyber-blog" web application using Microsoft Azure. 
