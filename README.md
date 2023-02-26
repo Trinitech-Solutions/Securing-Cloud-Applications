@@ -34,7 +34,7 @@ Blogs: <br/>
 <img src="image3.png" height="80%" width="80%" alt="Blogs"/>
 <br />
 <br />
-
+<p/>
 <h2>Networking Questions<h2/>
 
 	<p>1. What is the IP address of your webpage?
