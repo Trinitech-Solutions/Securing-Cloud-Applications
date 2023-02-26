@@ -260,34 +260,16 @@ SQL injection attack: is the insertion or “injection” of a SQL query via the
 7. Include screenshots below to demonstrate that your web app has the following:
 
 
-   1. Azure Front Door enabled
-
-
-[  
-]
-	
+   1. Azure Front Door enabled: <br/>
+<img src="image7.png" height="80%" width="80%" alt="Azure Front Door"/>
+<br />
 
    2. A WAF custom rule
+<img src="image6.png" height="80%" width="80%" alt="Azure Front Door"/>
+<br />
 
-
-[   
-]
  </p>
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff
