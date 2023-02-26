@@ -26,7 +26,7 @@ Secured it with a SSL certificate, and applied some of Azure's security features
 Web Application:<br/>
  
  
-)<img src="[https://i.imgur.com/62TgaWL.png](https://drive.google.com/file/d/1N7u0VrNmNR0LCZ48yc19Z7LUVRSPhMa_/view?usp=sharing)" height="80%" width="80%" alt="Web App"/>
+)<img src="https://drive.google.com/file/d/1N7u0VrNmNR0LCZ48yc19Z7LUVRSPhMa_/view?usp=sharing" height="80%" width="80%"/>
 <br />
 <br />
 Select the disk:  <br/>
