@@ -1,9 +1,10 @@
-<h1>JSecurng-Cloud-Applications</h1>
+<h1>Securng-Cloud-Applications</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project I used Microsoft Azure to build and host my own "cyber-blog" web application. Secured it with a SSL certificate, 
+and applied some of Azure's security features to protect the app. 
 <br />
 
 
