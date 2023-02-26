@@ -35,9 +35,9 @@ Blogs: <br/>
 <br />
 <br />
 
-<p>
 <h2>Networking Questions<h2/>
-- <b>1. What is the IP address of your webpage?</b>
+
+	<p>1. What is the IP address of your webpage?
 [20.211.64.15]
 	
 2. What is the location (city, state, country) of your IP address?
@@ -52,6 +52,7 @@ Blogs: <br/>
 [Non-authoritative answer:
 nicholasmohan.com        nameserver = ns51.domaincontrol.com.
 nicholasmohan.com        nameserver = ns52.domaincontrol.com.
+<p/>
 <br/>
 
 <h2>Web Development Questions<h2/>
