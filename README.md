@@ -36,9 +36,8 @@ Blogs: <br/>
 <br />
 <p/>
 
-<h2>Networking Questions<h2/>
-
-<p1/>
+<br>Networking Questions<br/>
+<p/>
 	1. What is the IP address of your webpage?
 [20.211.64.15]
 	
