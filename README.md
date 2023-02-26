@@ -20,11 +20,19 @@ Secured it with a SSL certificate, and applied some of Azure's security features
 - <b>Created and stored SSL certificates in Azure’s Key Vault, and bound them to secure the web application.</b> 
 - <b>Protected the web application by utilizing Azure’s Security features, such as Azure’s Front Door, WAF, and Security Center.</b>
 
-<h2>Program walk-through:</h2>
+<h2>Technical Brief</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Web Application: <br/>
+ [
+](https://nicholasmohan.com
+
+
+Paste screenshots of your website created (Be sure to include your blog posts):
+
+
+
+)<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
