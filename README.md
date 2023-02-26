@@ -23,14 +23,8 @@ Secured it with a SSL certificate, and applied some of Azure's security features
 <h2>Technical Brief</h2>
 
 <p align="center">
-Web Application: <br/>
- [
-](https://nicholasmohan.com
-
-
-Paste screenshots of your website created (Be sure to include your blog posts):
-
-
+Web Application:![image1](https://user-images.githubusercontent.com/29630783/221428282-aac4643f-6503-4af7-86ec-6e805c03016b.png)
+ <br/>
 
 )<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
