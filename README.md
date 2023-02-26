@@ -23,7 +23,10 @@ Secured it with a SSL certificate, and applied some of Azure's security features
 <h2>Technical Brief</h2>
 
 <p align="center">
-Web Application:<br/>
+My Web Application:<br/>
+ <p>For a domain we had two options (Azure free domain or a godaddy domain).
+  Since I had a domain registered with godaddy alread it was a easy choice for me.</p>
+  
  
 Select the disk:  <br/>
 <img src="image1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
