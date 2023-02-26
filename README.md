@@ -56,10 +56,9 @@ nicholasmohan.com        nameserver = ns52.domaincontrol.com.
 <p1/>
 <br/>
 
-<h2>Web Development Questions<h2/>
+Web Development Questions
 
 
-<p>
 	1. When creating your web app, you selected a runtime stack.  What was it? Does it work on the front end or the back end? 
 
 
