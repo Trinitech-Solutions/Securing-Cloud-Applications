@@ -38,28 +38,30 @@ Blogs: <br/>
 
 <br>Networking Questions<br/>
 <p/>
-	1. What is the IP address of your webpage?
-[20.211.64.15]
+<br/>
+
+What is the IP address of your webpage?
+
+	20.211.64.15
 	
 2. What is the location (city, state, country) of your IP address?
 
 
-[ Sydney, New South Wales, Australia]
+		Sydney, New South Wales, Australia
 	
-
-3. Run a DNS lookup on your website. What does the NS record show?
-
-
-[Non-authoritative answer:
-nicholasmohan.com        nameserver = ns51.domaincontrol.com.
-nicholasmohan.com        nameserver = ns52.domaincontrol.com.
+	
+4. Run a DNS lookup on your website. What does the NS record show?
+			
+			Non-authoritative answer:
+			nicholasmohan.com        nameserver = ns51.domaincontrol.com.
+			nicholasmohan.com        nameserver = ns52.domaincontrol.com.
 <p1/>
 <br/>
 
-Web Development Questions
+ When creating your web app, you selected a runtime stack.  What was it? Does it work on the front end or the back end?
 
 
-	1. When creating your web app, you selected a runtime stack.  What was it? Does it work on the front end or the back end? 
+	1. MY runtime stack selected was PHP 8.1, Which is usually used in the back end of web development
 
 
 [For my web app I selected PHP 8.1 and it works on the back end]
