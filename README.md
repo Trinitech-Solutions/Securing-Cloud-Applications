@@ -8,10 +8,10 @@ and applied some of Azure's security features to protect the app.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Technologies Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Azure: {Keyvaults, App Services, Front Door, WAF} PHP, HTML, Docker, OpenSSL
+</b> 
 
 <h2>Environments Used </h2>
 
