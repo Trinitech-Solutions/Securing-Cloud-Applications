@@ -65,10 +65,10 @@ Blogs: <br/>
 	
 
 5. Inside the /var/www/html directory, there was another directory called assets. Explain what was inside that directory.
-											
-																			Inside the asset directory there is a CSS directory with a style.css file. CSS allows you to control the design of web pages. The images directory contains images files used by the web site.
-	
 
+
+		Inside the asset directory there is a CSS directory with a style.css file. CSS allows you to control the design of web pages. The images directory contains images files used by the web site.
+		
 6. Consider your response to the above question. Does this work with the front end or back end?
 
 
